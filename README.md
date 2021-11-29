@@ -8,6 +8,10 @@
 > 
 [![——————————————————————————](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
  
+## Output
+[Unity File](https://drive.google.com/file/d/1dyJ0mtC9VxdaUA7_vS8hOvm7bkQdrb5s/view?usp=sharing)
+> 
+ 
 ## Propsal Documentation
 [문서](https://github.com/chaewon1121/2021fall_41class_team7/blob/947c4682c6e48133e78557cb6c6391833b65b470/doc/proposal_team7.pdf)
 >
