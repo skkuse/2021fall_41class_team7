@@ -25,7 +25,9 @@
 >
 
 ## Final Presentation
->
+[영상](https://youtu.be/Y_n-IuntOA8)
+[자료](https://docs.google.com/presentation/d/1lZW440pS6oSxSfSJ8tuxzhlxMSRu0iL9/edit?usp=sharing&ouid=112465321934233592098&rtpof=true&sd=true)
+> 
 
 ## Demo
 [영상](https://drive.google.com/file/d/1xe9l3FzTW1X5NIZf4xg-4XuG95RxMulC/view?usp=sharing)
